@@ -1,11 +1,11 @@
 {
   "/": "https://links.shae.run",
-  "docker-install.sh": "https://gist.githubusercontent.com/arnos-stuff/c7c10766ec30cd892b962b115c93384c/raw/",
-  "ligatures.json": "https://gist.githubusercontent.com/arnos-stuff/b6f3386fafe2cfd93d13feb137715b60/raw/",
-  "k8s-install.sh" : "https://gist.githubusercontent.com/arnos-stuff/772f0554aa7e1b840bd9318c21a8048c/raw/",
-  "animals.sh" : "https://gist.githubusercontent.com/arnos-stuff/ed81a20cc67e9c0b337792408b957948/raw/",
-  "animals.bash" : "https://gist.githubusercontent.com/arnos-stuff/ed81a20cc67e9c0b337792408b957948/raw/",
-  "vm-install.sh" : "https://gist.githubusercontent.com/arnos-stuff/b99927ab587218c2f20569b8ab3b5842/raw/",
-  "update-links.sh" : "https://gist.githubusercontent.com/arnos-stuff/24a7889c436d364e24b775f0e3a7ffc3/raw/",
-  "links.json" : "https://gist.githubusercontent.com/arnos-stuff/7016bacae0337ef54df613cae107fa3f/raw/"
+  "docker-install.sh": "https://gist.githubusercontent.com/arnos-stuff/c7c10766ec30cd892b962b115c93384c/raw/f06cfab962e155305c6e3e1852e90585f9ecd800/docker-install.sh",
+  "ligatures.json": "https://gist.githubusercontent.com/arnos-stuff/b6f3386fafe2cfd93d13feb137715b60/raw/1a17d68fd774e6ebe5b0f5e1d21a8f194a22c1a6/ligatured-fonts.json",
+  "k8s-install.sh" : "https://gist.githubusercontent.com/arnos-stuff/772f0554aa7e1b840bd9318c21a8048c/raw/637d18fffad4142a4255b5cd6b6d75252b50f9d0/install-k8s.sh",
+  "animals.sh" : "https://gist.githubusercontent.com/arnos-stuff/ed81a20cc67e9c0b337792408b957948/raw/d55f8f90819dae13df78838a0ec5ec5c2437d301/animals.bash",
+  "animals.bash" : "https://gist.githubusercontent.com/arnos-stuff/ed81a20cc67e9c0b337792408b957948/raw/d55f8f90819dae13df78838a0ec5ec5c2437d301/animals.bash",
+  "vm-install.sh" : "https://gist.githubusercontent.com/arnos-stuff/b99927ab587218c2f20569b8ab3b5842/raw/fd557a8d85766568a692b14cf55672ab9c093924/install-vm.sh",
+  "update-links.sh" : "https://gist.githubusercontent.com/arnos-stuff/fb37e2bf408a9b0fc5709cc42ea60622/raw/c27d2464ad8cb7e77d66bc53c46bd2799f3a31ba/update-links.sh",
+  "links.json" : "https://gist.githubusercontent.com/arnos-stuff/e16f5e9ee112160e60fec26e2bc67ece/raw/8aa1a0e61f30e87e5ad067492339d831b291d60d/update-links.json"
 }

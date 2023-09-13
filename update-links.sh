@@ -8,4 +8,6 @@ git clone https://github.com/arnos-stuff/suri-redirect /tmp/suri
 cp links.json /tmp/suri/src/links.json
 cd /tmp/suri
 git add . && git commit -m "Committing update to links.json" && git push origin master
-gh gist edit 7016bacae0337ef54df613cae107fa3f src/links.json
+
+## last step must happen manually for now ..
+# gh gist create update-links.sh --public -d "Link updater bash script"
